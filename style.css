@@ -128,7 +128,7 @@ header.sticky ul li a.active {
 .container-jumbotron {
   padding-top: 11rem;
   padding-bottom: 5rem;
-  background-image: url(img/bg.jpg);
+  background-image: linear-gradient(to top, #2a2a2a, rgba(0, 0, 0, 0)), url(img/bg.jpg);
   background-size: cover;
   background-position: center;
 }
