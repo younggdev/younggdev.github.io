@@ -248,6 +248,10 @@ section .foto-profil img {
   color: black;
 }
 
+.card:hover img {
+  box-shadow: 0 8px 8px -4px lightblue;
+}
+
 .contact {
   background-color: var(--second-bg-color);
   padding-bottom: 5rem;
